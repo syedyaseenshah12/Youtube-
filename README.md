@@ -1,22 +1,21 @@
 # YouTube Thumbnail Downloader
 
-A simple and easy-to-use YouTube Thumbnail Downloader that allows you to download the thumbnail of any YouTube video by providing its link.
+A simple web application to download thumbnails of any YouTube video by providing its link.
 
 ## Features
 
 - Download thumbnails of any YouTube video.
-- Simple and intuitive interface.
+- Simple and intuitive user interface.
 - Supports various thumbnail resolutions.
 
 ## Prerequisites
 
-- Python 3.x
-- `requests` library
+- Web browser (Chrome, Firefox, Safari, etc.)
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/youtube-thumbnail-downloader.git
+   git clone https://github.com/syedyaseenshah12/youtube-thumbnail-downloader.git
    cd youtube-thumbnail-downloader
